@@ -1,7 +1,7 @@
-print("this file is spotted bug")
+print("This file is spotted bug.")
 
 
-bug_fix = print("bug have fixed now")
+bug_fix = print("bug has fixed now")
 
 if bug_fix == True:
 
